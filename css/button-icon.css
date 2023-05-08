@@ -1,0 +1,15 @@
+.buttonIcon { 
+    border: none;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: var(--black);
+}
+
+.buttonIcon i {
+    font-size: 2rem;
+}
+
+.buttonIcon:active {
+    transform: scale(.95);
+}

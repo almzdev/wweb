@@ -7,10 +7,6 @@
 .user p span {
     display: block;
 }
-/* 
-.user img {
-    border-radius: 50%;
-} */
 
 .user-name {
     font: var(--body-16regular);

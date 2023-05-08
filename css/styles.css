@@ -4,6 +4,7 @@
 @import './action-list.css';
 @import './message-list.css';
 @import './icons.css';
+@import './button-icon.css';
 
 :root { 
     --headerSize: 80px;
