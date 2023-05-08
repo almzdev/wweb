@@ -3,6 +3,7 @@
 @import './chat.css';
 @import './action-list.css';
 @import './message-list.css';
+@import './icons.css';
 
 :root { 
     --headerSize: 80px;
