@@ -1,0 +1,22 @@
+.texbox {
+	display: flex;
+	flex-grow: 1;
+}
+
+.texbox input {
+	background-color: var(--white);
+	border: none;
+	border-radius: 3.125rem;
+	font: var(--body-16regular);
+	padding-inline: 1.5rem;
+	padding-block: 1rem;
+	flex-grow: 1;
+}
+
+.texbox input::-webkit-input-placeholder {
+	color: var(--grey);
+}
+
+.texbox input:focus {
+    outline: none;
+}
